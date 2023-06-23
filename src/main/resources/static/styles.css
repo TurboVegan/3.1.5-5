@@ -1,0 +1,43 @@
+
+
+.block-left {
+    width: 12%;
+    float: left;
+    height: 100%;
+}
+
+.custom-col-left {
+    /*-ms-flex: 0 0 12%;*/
+    /*flex: 0 0 12%;*/
+    /*max-width: 12%;*/
+    position: relative;
+    height: calc(100vh - 3px) !important;
+    padding-top: 20px;
+    background-color: lightgray;
+}
+
+
+.custom-tabs {
+    width: calc(85vw) !important;
+}
+
+body {
+    overflow: hidden;
+}
+
+.block-right {
+    padding-top: 20px;
+    width: 86%;
+    float: right;
+}
+
+.block-left {
+    font-size: 18px;
+}
+
+
+
+
+
+
+
